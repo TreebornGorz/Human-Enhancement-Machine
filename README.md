@@ -8,11 +8,11 @@ Humans may naturally focus on certain components while ignoring others.
 
 The Human Enhancement Machine assists these humans by providing curated suggestions.
 
-Physical: Diet, Exercise, Environment, and Illness
+Physical: Diet, Exercise, Environment, & Illness
 
 Mental: Cognitive, Emotional, & Behavioral
 
-Practical: Preparation, Organization
+Practical: Preparation & Organization
 
 Spiritual: Mindfulness, Fulfillment, Beliefs, & Values 
 
