@@ -8,24 +8,12 @@ Humans may naturally focus on certain components while ignoring others.
 
 The Human Enhancement Machine assists these humans by providing curated suggestions.
 
-Physical:
-Diet
-Exercise
-Environment
-Illness
+Physical: Diet, Exercise, Environment, and Illness
 
-Mental:
-Cognitive
-Emotional 
-Behavioral
+Mental: Cognitive, Emotional, & Behavioral
 
-Practical:
-Preparation
-Organization
+Practical: Preparation, Organization
 
-Spiritual:
-Beliefs & Values
-Mindfulness
-Fulfillment
+Spiritual: Mindfulness, Fulfillment, Beliefs, & Values 
 
 By addressing those core components of human health, humans can unlock potential that would otherwise be unachievable.
