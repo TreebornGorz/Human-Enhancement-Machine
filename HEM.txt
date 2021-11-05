@@ -30,7 +30,7 @@ Periodically collecting user input and scoring it allows the tracking of trends.
 
 Build a human specific profile based on collected data.
 
-Monitor progress based on scores and behvaioral changes over time. Determine when users implenting suggestions. 
+Monitor progress based on scores and behavioral changes over time. Determine when users implent suggestions. 
 
 ==========================================================================================================================
 
