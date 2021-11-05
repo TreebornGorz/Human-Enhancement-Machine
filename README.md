@@ -1,4 +1,4 @@
-# Human-Optimizer
+# Human-Enhancement-Algorithm
 
 This algorithm provides a holistic approach to improving human health by collecting data, learning individual humans, and offering suggestions.
 
