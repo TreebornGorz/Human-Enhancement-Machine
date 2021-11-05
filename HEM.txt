@@ -1,17 +1,48 @@
 
 Human health algorithm outline:
 
-Scoring - Solicit scores for the categories of human health...
+Scoring - Solicit scores for the categories of human health
+
 1) Mutable Physiology (Diet, Exercise, and Certain Illnesses) 
 2) Immutable Physiology (Genetic Defects and Certain Illnesses)
 3) Environmental Cleanliness
 4) Environmental Hostility
+Physical Score:
 5) Cognitive 
 6) Emotional 
 7) Behavioral
+Mental Score:
 8) Preparedness
 9) Organization
+Practical Score:
 10) Mindfulness
 11) Conviction (Beliefs)
 12) Priority (Values)
+Spiritual Score:
+
+Provide scores for each category based on user input that will resemble reality in each category. 
+
+==========================================================================================================================
+
+Data Collection:
+
+Periodically collecting user input and scoring it allows the tracking of trends.
+
+Build a human specific profile based on collected data.
+
+Monitor progress based on scores and behvaioral changes over time. Determine when users implenting suggestions. 
+
+==========================================================================================================================
+
+Offer Suggestions:
+
+Provide suggestions based on user input.
+
+Suggestions should prioritize areas that are having outsized negative impacts on overall health. 
+
+Physical health is foundational and should be weighted as such. Improving physical health should improve other areas.
+
+Tracking scoring trends after following suggestons allows the algorithm to identify when suggestions are effective or ineffective. 
+
+Inneffective suggestions will be filtered from the user's suggestion profile. Prompt users for input to determine the reason.
 
