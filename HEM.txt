@@ -1,5 +1,5 @@
 
-Human health algorithm outline:
+Human Enhancement Algorithm outline:
 
 Scoring - Solicit scores for the categories of human health
 
