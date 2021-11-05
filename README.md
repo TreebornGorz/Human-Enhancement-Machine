@@ -1,7 +1,31 @@
 # Human-Optimizer
 
-This algorithm provides a holistic approach to improving human health by collecting data, offering suggestions, and learning individual humans.
+This algorithm provides a holistic approach to improving human health by collecting data, learning individual humans, and offering suggestions.
 
-Human health can be broken down into three components: phsyical, mental, and spiritual.
+Human health can be broken down into three components: phsyical, mental, practical, and spiritual.
 
-Humans may naturally focus on certain components while ignoring others. The Human Optimizer... assists these humans by providing curated suggestions.
+Humans may naturally focus on certain components while ignoring others. 
+
+The Human Enhancement Machine assists these humans by providing curated suggestions.
+
+Physical:
+Diet
+Exercise
+Environment
+Illness
+
+Mental:
+Cognitive
+Emotional 
+Behavioral
+
+Practical:
+Preparation
+Organization
+
+Spiritual:
+Beliefs & Values
+Mindfulness
+Fulfillment
+
+By addressing those core components of human health, humans can unlock potential that would otherwise be unachievable.
