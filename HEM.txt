@@ -1,0 +1,17 @@
+
+Human health algorithm outline:
+
+Scoring - Solicit scores for the categories of human health...
+1) Mutable Physiology (Diet, Exercise, and Certain Illnesses) 
+2) Immutable Physiology (Genetic Defects and Certain Illnesses)
+3) Environmental Cleanliness
+4) Environmental Hostility
+5) Cognitive 
+6) Emotional 
+7) Behavioral
+8) Preparedness
+9) Organization
+10) Mindfulness
+11) Conviction (Beliefs)
+12) Priority (Values)
+
