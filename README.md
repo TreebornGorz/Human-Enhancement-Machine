@@ -14,6 +14,6 @@ Mental: Cognitive, Emotional, & Behavioral
 
 Practical: Preparation & Organization
 
-Spiritual: Mindfulness, Fulfillment, Beliefs, & Values 
+Spiritual: Mindfulness, Beliefs, & Values 
 
 By addressing those core components of human health, humans can unlock potential that would otherwise be unachievable.
