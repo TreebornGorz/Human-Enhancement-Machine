@@ -3,7 +3,7 @@ Human Enhancement Algorithm outline:
 
 Scoring - Solicit scores for the categories of human health
 
-1) Mutable Physiology (Diet, Exercise, and Certain Illnesses) 
+1) Mutable Physiology (Sleep, Diet, Exercise, and Certain Illnesses) 
 2) Immutable Physiology (Genetic Defects and Certain Illnesses)
 3) Environmental Cleanliness
 4) Environmental Hostility
