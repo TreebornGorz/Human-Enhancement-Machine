@@ -45,3 +45,28 @@ Tracking scoring trends after following suggestons allows the algorithm to ident
 
 Inneffective suggestions will be filtered from the user's suggestion profile. Prompt users for input to determine the reason.
 
+==========================================================================================================================
+
+Human Health Hierarchy -
+
+Environmental Hostility 
+Illness (Treatable)
+
+  Sleep
+
+    Diet (Basic Nutrition)
+    Exercise
+
+      Behavior
+      Emotion
+
+        Preparedness
+        Cognition
+
+          Conviction
+          Priority
+
+            Organization
+            Mindfulness
+
+
