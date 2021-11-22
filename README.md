@@ -6,7 +6,7 @@ Human health can be broken down into four main components: physical, mental, pra
 
 Humans may naturally focus on certain components while ignoring others, often to their subconscious detriment. 
 
-Physical: Diet, Exercise, Environment, & Illness
+Physical: Sleep, Diet, Exercise, Environment, & Illness
 
 Mental: Cognitive, Emotional, & Behavioral
 
