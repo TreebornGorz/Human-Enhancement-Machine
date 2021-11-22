@@ -3,7 +3,7 @@ Incremental Human Enhancement Algorithm outline:
 
 Thesis: Medical professionals have a tendency to focus on health emergencies and areas of expertise, often neglecting less exciting negative health symptoms and the simple behavioral changes which can lead to significant health benefits. 
 
-Description: This software takes a holistic, incremental approach to enhancing human health. It is holistic because it cosiders the entire sphere of human health without disregarding less popular elements demonstrated to be important. It is incremenetal because changing a single behavior at a time is easier and more achievable for the user and provides more clarity on the health effects of that change. Based on user input, a suggestion regime will be periodically generated. This suggestion regime will be updated over time based on the efficacy of the suggestions. 
+Description: This software takes a holistic, incremental approach to enhancing human health. It is holistic because it considers the entire sphere of human health without disregarding less popular elements demonstrated to be important. It is incremental because changing a single behavior is more achievable for the user and provides more clarity on the health effects of that change. Based on user input, a suggestion regime will be periodically generated. This suggestion regime will be updated over time based on the efficacy of the suggestions. 
 
 ==========================================================================================================================
 
