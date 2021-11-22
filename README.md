@@ -1,6 +1,6 @@
-# Human-Enhancement-Algorithm
+# Incremental-Human-Enhancement-Algorithm
 
-This algorithm provides a holistic approach for improving human health by learning individual humans and providing curated suggestions.
+This algorithm provides a holistic approach for improving human health by learning individual humans and providing curated incremental suggestions.
 
 Human health can be broken down into four main components: physical, mental, practical, and spiritual.
 
