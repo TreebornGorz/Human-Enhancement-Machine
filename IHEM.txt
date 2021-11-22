@@ -1,0 +1,159 @@
+
+Incremental Human Enhancement Algorithm outline:
+
+Thesis: Medical professionals have a tendency to focus on health emergencies and areas of expertise, often neglecting less exciting negative health symptoms and the simple behavioral changes which can lead to significant health benefits. 
+
+Description: This software takes a holistic, incremental approach to enhancing human health. It is holistic because it cosiders the entire sphere of human health without disregarding less popular elements demonstrated to be important. It is incremenetal because changing a single behavior at a time is easier and more achievable for the user and provides more clarity on the health effects of that change. Based on user input, a suggestion regime will be periodically generated. This suggestion regime will be updated over time based on the efficacy of the suggestions. 
+
+==========================================================================================================================
+
+Scoring - Solicit scores for the categories of human health
+
+1) Mutable Physiology (Sleep, Diet, Exercise, and Certain Illnesses) 
+2) Immutable Physiology (Genetic Defects and Certain Illnesses)
+3) Environmental Hostility
+Physical Score:
+4) Cognitive 
+5) Emotional 
+6) Behavioral
+Mental Score:
+7) Preparedness
+8) Organization
+Practical Score:
+9) Mindfulness
+10) Conviction (Beliefs)
+11) Priority (Values)
+Spiritual Score:
+
+Provide scores for each category based on user input that will resemble reality in each category. 
+
+MVP will be Medicine agnostic. Cross the medical bridge once the product works for non-medical.
+Initial scope: Limited to asking if user has seen a doctor or received treatment and if it worked or not. 
+
+==========================================================================================================================
+
+Algorithm:
+
+Goal: Maintain a Suggestion Regime which maximizes Health Score
+
+Collect Data
+If timeframe is not met, stop. Otherwise, continue.
+  Offer suggestion 
+  Determine if suggestion was followed
+    If not, determine if the user is unable/refuses to follow suggestion
+      If unable/refuse, then move on to the next suggestion
+      If suggestion not followed, but user is attempting to follow, encourage the same suggestion with tips for accomplishing it
+    If suggestion is followed, 
+
+Order of operations for each session:
+Gather health scores
+Prompt user for behavior input, additional questions relating to existing suggestions
+If timeframe has been reached, compare input to existing data to determine which suggestions are helpful or harmful
+  -If multiple behaviors change status from the previous session, then it becomes difficult to determine which behavior caused the change in data
+  -If only one behavior changes from the previous session AND the appropriate time period has passed for that behavior to take effect, then a conclusion can be drawn about the effectiveness of that change (small possibility that changes exists which were not prompted, provide additional specific prompts based on the changed behavior that are known to obfuscate the data)
+  -If user changes behaviors without a suggestion, this may also confuse the data, but may also be a beneficial behavior
+Either make new suggestion, abandon a past suggestion, or maintain the current suggestion regime because user input is inadequate to draw conclusion [Only one. Important! Otherwise, the data will be obfuscated.]
+  -Provide a regime and a timeframe. If a timeframe is very long for a particular suggestion, then suggestions further down the hierarchy should be considered based on their timeframe. Compare length of time to expected benefit. 
+
+
+
+==========================================================================================================================
+
+Data Collection:
+
+Periodically collecting user input and scoring it allows the tracking of trends.
+
+Build a human specific profile based on collected data.
+
+Monitor progress based on scores and behavioral changes over time. Determine when users implent suggestions. 
+
+==========================================================================================================================
+
+Offer Suggestions:
+
+Provide suggestions based on user input.
+
+Suggestions should prioritize in areas that are likely having outsized negative impacts on overall health. 
+
+Physical health is foundational and should be weighted as such. Improving physical health should improve other areas.
+
+Tracking scoring trends after following suggestons allows the algorithm to identify when suggestions are effective or ineffective. 
+
+Inneffective suggestions will be filtered from the user's suggestion profile. Prompt users for input to determine the reason.
+
+==========================================================================================================================
+
+Human Health Hierarchy -
+
+Environmental Hostility 
+Illness 
+
+  Sleep
+
+    Diet 
+    Exercise
+
+      Behavior
+      Emotion
+
+        Preparedness
+        Cognition
+
+          Conviction
+          Priority
+
+            Organization
+            Mindfulness
+
+==========================================================================================================================
+
+Basic User Metrics:
+
+Age:
+
+Sex:
+
+Weight:
+
+Body Type: Average, Skinny, Overweight, Athletic
+
+Smoke/Drink: Frequency
+
+Drug Use: Type (Rx?) and Frequency
+
+==========================================================================================================================
+
+Illness:
+
+Do you feel ill?
+
+  Collect Symptom Data: Chronic. Acute, etc.
+
+  (if acute) Search for recommended treatments or suggest user see a doctor.
+
+  (if chronic) Suggest a doctor if recommendations do not improve the relevant condition.
+
+==========================================================================================================================
+Environmental Hostility:
+
+Based on symptoms, check for:
+Allergens, Toxins, Bacteria, Radiation
+
+Are there any areas of your home where ??? may exist.
+Try eliminating the hostility in this area.
+
+==========================================================================================================================
+
+Sleep:
+
+Do you sleep and wake up at a regular time?
+
+Do you sleep a consistent number of hours?
+
+  (if yes) How many hours do you sleep each night? 
+
+  (if no) How many hours do you sleep each night on average?
+          How many hours does the length of your sleep usually variate?          
+          How many hours do you sleep during the shortest nights of sleep?
+          How many hours do you sleep during the longest nights of sleep?
+
